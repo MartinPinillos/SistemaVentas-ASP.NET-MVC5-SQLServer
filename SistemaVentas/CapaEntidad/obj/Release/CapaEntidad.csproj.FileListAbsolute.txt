@@ -1,0 +1,6 @@
+C:\Users\Martin\Desktop\Homework\Sistema web ASP.net mvc 5\SistemaVentas-ASP.NET-MVC5-SQLServer\SistemaVentas\CapaEntidad\bin\Release\CapaEntidad.dll
+C:\Users\Martin\Desktop\Homework\Sistema web ASP.net mvc 5\SistemaVentas-ASP.NET-MVC5-SQLServer\SistemaVentas\CapaEntidad\bin\Release\CapaEntidad.pdb
+C:\Users\Martin\Desktop\Homework\Sistema web ASP.net mvc 5\SistemaVentas-ASP.NET-MVC5-SQLServer\SistemaVentas\CapaEntidad\obj\Release\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\Homework\Sistema web ASP.net mvc 5\SistemaVentas-ASP.NET-MVC5-SQLServer\SistemaVentas\CapaEntidad\obj\Release\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Homework\Sistema web ASP.net mvc 5\SistemaVentas-ASP.NET-MVC5-SQLServer\SistemaVentas\CapaEntidad\obj\Release\CapaEntidad.dll
+C:\Users\Martin\Desktop\Homework\Sistema web ASP.net mvc 5\SistemaVentas-ASP.NET-MVC5-SQLServer\SistemaVentas\CapaEntidad\obj\Release\CapaEntidad.pdb

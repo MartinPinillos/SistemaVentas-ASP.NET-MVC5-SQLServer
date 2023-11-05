@@ -1,0 +1,11 @@
+C:\Users\Martin\Desktop\Homework\Sistema web ASP.net mvc 5\SistemaVentas-ASP.NET-MVC5-SQLServer\SistemaVentas\CapaNegocio\bin\Release\CapaNegocio.dll
+C:\Users\Martin\Desktop\Homework\Sistema web ASP.net mvc 5\SistemaVentas-ASP.NET-MVC5-SQLServer\SistemaVentas\CapaNegocio\bin\Release\CapaNegocio.pdb
+C:\Users\Martin\Desktop\Homework\Sistema web ASP.net mvc 5\SistemaVentas-ASP.NET-MVC5-SQLServer\SistemaVentas\CapaNegocio\bin\Release\CapaDatos.dll
+C:\Users\Martin\Desktop\Homework\Sistema web ASP.net mvc 5\SistemaVentas-ASP.NET-MVC5-SQLServer\SistemaVentas\CapaNegocio\bin\Release\CapaEntidad.dll
+C:\Users\Martin\Desktop\Homework\Sistema web ASP.net mvc 5\SistemaVentas-ASP.NET-MVC5-SQLServer\SistemaVentas\CapaNegocio\bin\Release\CapaDatos.pdb
+C:\Users\Martin\Desktop\Homework\Sistema web ASP.net mvc 5\SistemaVentas-ASP.NET-MVC5-SQLServer\SistemaVentas\CapaNegocio\bin\Release\CapaEntidad.pdb
+C:\Users\Martin\Desktop\Homework\Sistema web ASP.net mvc 5\SistemaVentas-ASP.NET-MVC5-SQLServer\SistemaVentas\CapaNegocio\obj\Release\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\Homework\Sistema web ASP.net mvc 5\SistemaVentas-ASP.NET-MVC5-SQLServer\SistemaVentas\CapaNegocio\obj\Release\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Homework\Sistema web ASP.net mvc 5\SistemaVentas-ASP.NET-MVC5-SQLServer\SistemaVentas\CapaNegocio\obj\Release\CapaNegocio.csproj.CopyComplete
+C:\Users\Martin\Desktop\Homework\Sistema web ASP.net mvc 5\SistemaVentas-ASP.NET-MVC5-SQLServer\SistemaVentas\CapaNegocio\obj\Release\CapaNegocio.dll
+C:\Users\Martin\Desktop\Homework\Sistema web ASP.net mvc 5\SistemaVentas-ASP.NET-MVC5-SQLServer\SistemaVentas\CapaNegocio\obj\Release\CapaNegocio.pdb

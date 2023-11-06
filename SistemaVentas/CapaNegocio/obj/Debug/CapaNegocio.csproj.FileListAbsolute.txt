@@ -2,8 +2,12 @@ C:\Users\Martin\Desktop\Homework\Sistema web ASP.net mvc 5\SistemaVentas-ASP.NET
 C:\Users\Martin\Desktop\Homework\Sistema web ASP.net mvc 5\SistemaVentas-ASP.NET-MVC5-SQLServer\SistemaVentas\CapaNegocio\bin\Debug\CapaNegocio.pdb
 C:\Users\Martin\Desktop\Homework\Sistema web ASP.net mvc 5\SistemaVentas-ASP.NET-MVC5-SQLServer\SistemaVentas\CapaNegocio\bin\Debug\CapaDatos.dll
 C:\Users\Martin\Desktop\Homework\Sistema web ASP.net mvc 5\SistemaVentas-ASP.NET-MVC5-SQLServer\SistemaVentas\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Martin\Desktop\Homework\Sistema web ASP.net mvc 5\SistemaVentas-ASP.NET-MVC5-SQLServer\SistemaVentas\CapaNegocio\bin\Debug\Firebase.Auth.dll
+C:\Users\Martin\Desktop\Homework\Sistema web ASP.net mvc 5\SistemaVentas-ASP.NET-MVC5-SQLServer\SistemaVentas\CapaNegocio\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Martin\Desktop\Homework\Sistema web ASP.net mvc 5\SistemaVentas-ASP.NET-MVC5-SQLServer\SistemaVentas\CapaNegocio\bin\Debug\CapaDatos.pdb
 C:\Users\Martin\Desktop\Homework\Sistema web ASP.net mvc 5\SistemaVentas-ASP.NET-MVC5-SQLServer\SistemaVentas\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Martin\Desktop\Homework\Sistema web ASP.net mvc 5\SistemaVentas-ASP.NET-MVC5-SQLServer\SistemaVentas\CapaNegocio\bin\Debug\Firebase.Auth.xml
+C:\Users\Martin\Desktop\Homework\Sistema web ASP.net mvc 5\SistemaVentas-ASP.NET-MVC5-SQLServer\SistemaVentas\CapaNegocio\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Martin\Desktop\Homework\Sistema web ASP.net mvc 5\SistemaVentas-ASP.NET-MVC5-SQLServer\SistemaVentas\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
 C:\Users\Martin\Desktop\Homework\Sistema web ASP.net mvc 5\SistemaVentas-ASP.NET-MVC5-SQLServer\SistemaVentas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
 C:\Users\Martin\Desktop\Homework\Sistema web ASP.net mvc 5\SistemaVentas-ASP.NET-MVC5-SQLServer\SistemaVentas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
